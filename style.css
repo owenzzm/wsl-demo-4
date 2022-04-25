@@ -1,0 +1,10 @@
+table {
+  border: 10px dashed rgb(104, 28, 28);
+}
+
+#mytable {
+  color: orange;
+}
+.mytable_class {
+  background: rgba(42, 133, 42, 0.715);
+}
